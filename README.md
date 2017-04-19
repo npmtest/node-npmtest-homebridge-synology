@@ -1,4 +1,7 @@
-# test coverage for  [homebridge-synology (v0.2.2)](https://github.com/stfnhmplr/homebridge-synology#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-homebridge-synology.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-homebridge-synology) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-homebridge-synology.svg)](https://travis-ci.org/npmtest/node-npmtest-homebridge-synology)
+# npmtest-homebridge-synology
+
+#### basic test coverage for  [homebridge-synology (v0.2.2)](https://github.com/stfnhmplr/homebridge-synology#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-homebridge-synology.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-homebridge-synology) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-homebridge-synology.svg)](https://travis-ci.org/npmtest/node-npmtest-homebridge-synology)
+
 #### Synology Diskstation support for Homebridge: https://github.com/nfarina/homebridge
 
 [![NPM](https://nodei.co/npm/homebridge-synology.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/homebridge-synology)
